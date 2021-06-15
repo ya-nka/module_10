@@ -1,0 +1,30 @@
+.calc-row {
+  height: 100vh;
+  font-family: 'Share Tech Mono', monospace;
+}
+
+.input-window {
+  text-align: end;
+  font-size: x-large;
+}
+
+.btn-outline-danger {
+  background-color: darksalmon;
+}
+
+.btn-outline-primary {
+  background-color: aqua;
+}
+
+.card-body {
+  background-color: black;
+}
+.window_history {
+  width: 100%;
+  text-align: center;
+
+  border-radius: 0.25rem;
+  font-size: x-large;
+  object-position: ;
+  background-color: black;
+}
